@@ -391,7 +391,7 @@ class Proxy:
         s.bind((host, port))
         s.listen()
 
-        print("* Bot is running on  {}:{} ...".format(host, port))
+        print("ysn bot")
 
         while True:
             conn, addr = s.accept()
